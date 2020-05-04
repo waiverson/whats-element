@@ -1,5 +1,5 @@
 > 定位一个网页DOM元素，一般会以 id,class,name 作为标识符，通过 `document.getElementById()`、`document.getElementByName()` 、 `document.querySelector()` 
-API来定位、获取指定元素。而针对一些无任何标识的节点，如 `<span>文本</sapn>` 是否有方法定位到它们呢？ 
+API来定位、获取指定元素。而针对一些无任何标识的节点，如 `<span>文本</sapn>` 是否有方法定位到它们呢？ 应用场景：[pagenote](https://addons.mozilla.org/zh-CN/firefox/addon/page-note/)
 
 ## 引入&使用方法
 
